@@ -19,3 +19,5 @@ Under the hood, the project leverages the efficiency of WebSockets for real-time
 This project is ideal for developers looking to understand real-time collaboration, WebSockets, and full-stack JavaScript development. It showcases practical use cases for Socket.IO, MongoDB, and modern frontend tools, providing a foundation for building more complex collaborative applications. The code is well-structured, with clear separation of concerns between the frontend and backend, making it easy to extend or customize. Whether for learning or as a starting point for a larger project, this collaborative editor offers a comprehensive example of real-time web development.
 #output img
 ![Image](https://github.com/user-attachments/assets/dc47d9c1-bdd1-441a-b9fb-64ef486321b3)
+#project folder structue img
+![Image](https://github.com/user-attachments/assets/89732849-af41-436b-89a7-f44e3c3c21b9)
